@@ -27,8 +27,9 @@ namespace TeacherManagement
 
         private static bool showMenu()
         {
-            Console.WriteLine("Teacher Management\r");
-            Console.WriteLine("------------------------\n");
+            Console.WriteLine(" __________________________________ \n");
+            Console.WriteLine("| Rainbow School Teacher Management|\r");
+            Console.WriteLine("|__________________________________|\n");
             Console.WriteLine("Select operation to perform");
             Console.WriteLine("\t1 - Add Teacher ");
             Console.WriteLine("\t2 - Update Teacher");
@@ -80,7 +81,7 @@ namespace TeacherManagement
                     }
                     return true;
                 case 3:
-                    Console.WriteLine("You selected to see all teacher");
+                    Console.WriteLine("You selected to see all Rainbow teacher");
                     List<Teacher> teacherListFromFile = getTeacherList();
                     foreach (Teacher item in teacherListFromFile)
                     {

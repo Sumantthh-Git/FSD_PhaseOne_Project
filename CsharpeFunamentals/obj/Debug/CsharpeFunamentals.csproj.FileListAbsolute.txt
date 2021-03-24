@@ -10,3 +10,9 @@ C:\Users\sumanth_gumedelli\source\repos\FSD_PhaseOne_Project\CsharpeFunamentals\
 C:\Users\sumanth_gumedelli\source\repos\FSD_PhaseOne_Project\CsharpeFunamentals\obj\Debug\CsharpeFunamentals.csprojAssemblyReference.cache
 C:\Users\sumanth_gumedelli\source\repos\FSD_PhaseOne_Project\CsharpeFunamentals\obj\Debug\CsharpeFunamentals.exe
 C:\Users\sumanth_gumedelli\source\repos\FSD_PhaseOne_Project\CsharpeFunamentals\obj\Debug\CsharpeFunamentals.pdb
+C:\Users\sumanth_gumedelli\source\repos\fsd\FSD_PhaseOne_Project\CsharpeFunamentals\bin\Debug\CsharpeFunamentals.exe.config
+C:\Users\sumanth_gumedelli\source\repos\fsd\FSD_PhaseOne_Project\CsharpeFunamentals\bin\Debug\CsharpeFunamentals.exe
+C:\Users\sumanth_gumedelli\source\repos\fsd\FSD_PhaseOne_Project\CsharpeFunamentals\bin\Debug\CsharpeFunamentals.pdb
+C:\Users\sumanth_gumedelli\source\repos\fsd\FSD_PhaseOne_Project\CsharpeFunamentals\obj\Debug\CsharpeFunamentals.csprojAssemblyReference.cache
+C:\Users\sumanth_gumedelli\source\repos\fsd\FSD_PhaseOne_Project\CsharpeFunamentals\obj\Debug\CsharpeFunamentals.exe
+C:\Users\sumanth_gumedelli\source\repos\fsd\FSD_PhaseOne_Project\CsharpeFunamentals\obj\Debug\CsharpeFunamentals.pdb
